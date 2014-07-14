@@ -42,6 +42,7 @@
     <mvc:view-controller path="/index" view-name="index"/>
     <mvc:view-controller path="/login" view-name="login"/>
     <mvc:view-controller path="/index2" view-name="index2"/>
+    <mvc:view-controller path="/product" view-name="shop-item"/>
    
    
     
